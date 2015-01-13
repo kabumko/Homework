@@ -1,0 +1,5 @@
+E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\02.PrintMyName\bin\Debug\02.PrintMyName.exe.config
+E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\02.PrintMyName\bin\Debug\02.PrintMyName.exe
+E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\02.PrintMyName\bin\Debug\02.PrintMyName.pdb
+E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\02.PrintMyName\obj\Debug\02.PrintMyName.exe
+E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\02.PrintMyName\obj\Debug\02.PrintMyName.pdb
