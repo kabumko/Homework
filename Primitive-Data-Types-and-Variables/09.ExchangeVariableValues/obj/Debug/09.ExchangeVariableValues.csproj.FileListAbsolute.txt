@@ -1,0 +1,5 @@
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb

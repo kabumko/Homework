@@ -1,0 +1,5 @@
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb

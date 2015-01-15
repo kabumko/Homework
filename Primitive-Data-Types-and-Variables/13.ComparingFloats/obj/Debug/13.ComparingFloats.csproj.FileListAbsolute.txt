@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\13.ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb

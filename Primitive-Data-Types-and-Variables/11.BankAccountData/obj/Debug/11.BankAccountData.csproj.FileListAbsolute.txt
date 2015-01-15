@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\11.BankAccountData\obj\Debug\11.BankAccountData.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

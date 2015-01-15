@@ -1,0 +1,5 @@
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+E:\Proekti\Teleric\C# 2015\Примитивни типове данни и променливи\Project\Primitive-Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb
