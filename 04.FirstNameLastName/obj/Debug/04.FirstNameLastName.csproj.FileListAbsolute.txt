@@ -1,5 +1,0 @@
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\04.FirstNameLastName\bin\Debug\04.FirstNameLastName.exe.config
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\04.FirstNameLastName\bin\Debug\04.FirstNameLastName.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\04.FirstNameLastName\bin\Debug\04.FirstNameLastName.pdb
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\04.FirstNameLastName\obj\Debug\04.FirstNameLastName.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\04.FirstNameLastName\obj\Debug\04.FirstNameLastName.pdb

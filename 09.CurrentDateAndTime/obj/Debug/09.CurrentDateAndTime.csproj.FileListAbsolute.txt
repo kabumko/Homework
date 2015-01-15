@@ -1,6 +1,0 @@
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\09.CurrentDateAndTime\bin\Debug\09.CurrentDateAndTime.exe.config
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\09.CurrentDateAndTime\obj\Debug\09.CurrentDateAndTime.csprojResolveAssemblyReference.cache
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\09.CurrentDateAndTime\bin\Debug\09.CurrentDateAndTime.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\09.CurrentDateAndTime\bin\Debug\09.CurrentDateAndTime.pdb
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\09.CurrentDateAndTime\obj\Debug\09.CurrentDateAndTime.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\09.CurrentDateAndTime\obj\Debug\09.CurrentDateAndTime.pdb

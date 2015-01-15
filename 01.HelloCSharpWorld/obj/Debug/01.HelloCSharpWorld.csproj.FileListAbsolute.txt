@@ -1,6 +1,0 @@
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\01.HelloCSharpWorld\bin\Debug\01.HelloCSharpWorld.exe.config
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\01.HelloCSharpWorld\bin\Debug\01.HelloCSharpWorld.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\01.HelloCSharpWorld\bin\Debug\01.HelloCSharpWorld.pdb
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\01.HelloCSharpWorld\obj\Debug\01.HelloCSharpWorld.csprojResolveAssemblyReference.cache
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\01.HelloCSharpWorld\obj\Debug\01.HelloCSharpWorld.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\01.HelloCSharpWorld\obj\Debug\01.HelloCSharpWorld.pdb

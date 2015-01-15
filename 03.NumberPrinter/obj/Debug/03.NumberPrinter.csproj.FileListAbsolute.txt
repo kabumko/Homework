@@ -1,5 +1,0 @@
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\03.NumberPrinter\bin\Debug\03.NumberPrinter.exe.config
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\03.NumberPrinter\bin\Debug\03.NumberPrinter.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\03.NumberPrinter\bin\Debug\03.NumberPrinter.pdb
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\03.NumberPrinter\obj\Debug\03.NumberPrinter.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\03.NumberPrinter\obj\Debug\03.NumberPrinter.pdb

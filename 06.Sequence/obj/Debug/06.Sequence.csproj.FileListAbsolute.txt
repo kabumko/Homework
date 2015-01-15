@@ -1,5 +1,0 @@
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe.config
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.pdb
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.pdb

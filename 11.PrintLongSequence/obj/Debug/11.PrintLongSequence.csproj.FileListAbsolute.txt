@@ -1,6 +1,0 @@
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\11.PrintLongSequence\bin\Debug\11.PrintLongSequence.exe.config
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\11.PrintLongSequence\bin\Debug\11.PrintLongSequence.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\11.PrintLongSequence\bin\Debug\11.PrintLongSequence.pdb
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\11.PrintLongSequence\obj\Debug\11.PrintLongSequence.csprojResolveAssemblyReference.cache
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\11.PrintLongSequence\obj\Debug\11.PrintLongSequence.exe
-E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\11.PrintLongSequence\obj\Debug\11.PrintLongSequence.pdb
