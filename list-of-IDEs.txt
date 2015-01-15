@@ -1,0 +1,54 @@
+Sharpdevelop:
+
+Sharpdevelop is a free IDE for C#, VB.NET and Boo projects on Microsoft's .NET platform.
+It is open-source.
+Supported languages: C#; VB.NET; Boo; IronPython; IronRuby; F#
+Has Refactoring, Paralel build support for multy-core machines, NuGet and T4 support, Multy-framework targeting - Net 4.0, 2.0, 3.0, 3.5
+Code autoinsert, Starts from USB memory stick, Read-only project support, Full MSBuild support.
+
+
+Monodevelop:
+
+MonoDevelop enables developers to quickly write desktop and web applications on Linux, Windows and Mac OS X. It also makes it easy for developers to port .NET applications created with Visual Studio to Linux and Mac OS X maintaining a single code base for all platforms.
+
+Features: Multi-platform, Advanced Text Editing, Configurable workbench, Multiple language support, Integrated Debugger, GTK# Visual Designer, ASP.NET, Other tools.
+
+
+Morfik:
+
+IDE aimed at developing Ajax applications in a high-level language such as Java, C#, BASIC or Object Pascal.
+
+It combines in an integrated development environment an interface designer, a report designer, a query and table designer and coding facilities. The tool supports three different language syntaxes: C#, Basic and Object Pascal and creates applications for deployment on Windows and Linux systems.While interface design is done visually in Morfik, Web application developers can write code to handle events and create the interactivity and business logic. 
+
+The tight integration of the development environment and the compilers with the Morfik Framework makes the creation of Web Services a simple task. Web services, in fact, are used throughout the Morfik Framework, for accomplishing several tasks without any developer coding.
+
+The Morfik development environment offers integrated source level debugging for both the in-browser and server side codes as well as facilities to monitor communications between the browser and the web server, and the web server and the database.
+
+
+Xmarin
+
+IDE for building apps for iOS, Android and Mac.
+
+Features: 
+OS X and Windows - Xamarin Studio is available for OS X and Windows. You get the same great editing experience for your cross-platform code regardless of your OS.
+Universal Search - Quickly find any file, type, member, command and even NuGet packages, without any mousing around.
+Contextual Insights - Place your cursor over any member for type information and other details, helping you explore foreign and familiar APIs alike.
+Intelligent Refactoring - Restructure and edit your code faster with context-sensitive templates and code refactoring actions including Extract Method, Rename, Add 'using' and more.
+First-class F# Support - Xamarin Studio is the perfect F# app builder, shipping with support for syntax highlighting, refactoring, a REPL, mobile project templates, debugger support and more.
+Code Navigation - Use Go to Definition and Find References to navigate around your project with ease. Quickly jump to any part of the current file using the breadcrumb, or visualize structure with the Document Outline.
+Smart Syntax Highlighting - Even ugly code looks beautiful with Xamarin Studio's semantic highlighting. Easily distinguish language elements, and spot errors before you compile.
+Version Control - Git and Subversion support for diff, log, revert, and other source control operations. Using third-party tools you can integrate with other popular VCS tools like Team Foundation Server.
+Over 22,000 NuGet Packages - Xamarin Studio features first-class NuGet support. Solutions automatically restore packages. Discover incredible libraries in the sleek packages window. You can even search for packages right from the global search bar.
+
+
+Aptana:
+
+The professional, open source development tool for the open web. Develop and test your entire web application using a single environment. With support for the latest browser technology specs such as HTML5, CSS3, JavaScript, Ruby, Rails, PHP and Python. We've got you covered!
+
+Features: 
+HTML, CSS, and JavaScript Code Assist - Aids in authoring of HTML, CSS, JavaScript, PHP, and Ruby. Supports the latest HTML5 specifications. Includes information about the level of support for each element in the major web browsers.
+Deployment Wizard - Support for one-shot as well as keep-synchronized setups. Multiple protocols including FTP, SFTP, FTPS and Capistrano. Ability to automatically publish your Ruby & Rails applications to hosting services such as Heroku and Engine Yard.
+Integrated Debugger - Set breakpoints, inspect variables, control execution. The integrated Ruby & Rails and JavaScript debuggers help you squash those bugs.
+Git Integration - Easily put your projects under git source code control. Collaborate with team members thru merge, pull and push actions to remote repositories such those hosted on Github. Facilitates git-based deployments.
+Built-in Terminal - Quickly access a command line terminal for execution of operating system commands and language utilities such as gem, rake, etc.
+IDE Customization - Setup your development environment exactly the way you want it by extending the core capabilities through scripting of custom commands. Studio ships with hundreds of commands but always presents them in context based on the type of file you are editing.

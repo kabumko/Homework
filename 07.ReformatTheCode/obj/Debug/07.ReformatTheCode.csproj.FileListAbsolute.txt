@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\07.ReformatTheCode\bin\Debug\07.ReformatTheCode.exe.config
+E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\07.ReformatTheCode\obj\Debug\07.ReformatTheCode.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\07.ReformatTheCode\bin\Debug\07.ReformatTheCode.exe
+E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\07.ReformatTheCode\bin\Debug\07.ReformatTheCode.pdb
+E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\07.ReformatTheCode\obj\Debug\07.ReformatTheCode.exe
+E:\Proekti\Teleric\C# 2015\Въведение в програмирането\Project\Intro-Programming-Homework\07.ReformatTheCode\obj\Debug\07.ReformatTheCode.pdb
