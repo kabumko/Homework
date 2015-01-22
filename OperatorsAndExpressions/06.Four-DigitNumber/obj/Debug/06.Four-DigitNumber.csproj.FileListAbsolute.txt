@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.exe.config
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.pdb
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\06.Four-DigitNumber\obj\Debug\06.Four-DigitNumber.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\06.Four-DigitNumber\obj\Debug\06.Four-DigitNumber.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\06.Four-DigitNumber\obj\Debug\06.Four-DigitNumber.pdb

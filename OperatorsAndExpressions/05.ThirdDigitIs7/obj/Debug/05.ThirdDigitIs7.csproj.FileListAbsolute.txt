@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.pdb
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb

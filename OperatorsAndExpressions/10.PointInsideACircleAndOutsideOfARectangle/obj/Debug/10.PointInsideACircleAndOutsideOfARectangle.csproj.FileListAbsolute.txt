@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\10.PointInsideACircleAndOutsideOfARectangle.exe.config
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\10.PointInsideACircleAndOutsideOfARectangle.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\10.PointInsideACircleAndOutsideOfARectangle.pdb
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\10.PointInsideACircleAndOutsideOfARectangle.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\10.PointInsideACircleAndOutsideOfARectangle.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\10.PointInsideACircleAndOutsideOfARectangle.pdb

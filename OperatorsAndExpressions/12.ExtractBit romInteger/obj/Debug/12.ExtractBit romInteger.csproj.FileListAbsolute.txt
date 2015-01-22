@@ -1,0 +1,1 @@
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\12.ExtractBit romInteger\bin\Debug\12.ExtractBit romInteger.exe.config

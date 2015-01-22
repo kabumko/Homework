@@ -1,0 +1,5 @@
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\04.Rectangles\bin\Debug\04.Rectangles.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\04.Rectangles\bin\Debug\04.Rectangles.pdb
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\04.Rectangles\obj\Debug\04.Rectangles.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\04.Rectangles\obj\Debug\04.Rectangles.pdb

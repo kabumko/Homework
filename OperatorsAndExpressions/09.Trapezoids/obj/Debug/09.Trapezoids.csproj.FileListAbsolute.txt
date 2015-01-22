@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

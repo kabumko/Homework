@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe.config
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.pdb
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.pdb

@@ -1,0 +1,5 @@
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+E:\Proekti\Teleric\C# 2015\Оператори и изрази\Project\OperatorsAndExpressions\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb
