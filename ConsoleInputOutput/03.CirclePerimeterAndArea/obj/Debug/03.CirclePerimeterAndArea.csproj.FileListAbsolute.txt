@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb

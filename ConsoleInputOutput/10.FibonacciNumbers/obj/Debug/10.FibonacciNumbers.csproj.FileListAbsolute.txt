@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb

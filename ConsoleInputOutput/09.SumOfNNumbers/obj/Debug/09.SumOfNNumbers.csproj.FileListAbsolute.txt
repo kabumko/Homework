@@ -1,0 +1,5 @@
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb

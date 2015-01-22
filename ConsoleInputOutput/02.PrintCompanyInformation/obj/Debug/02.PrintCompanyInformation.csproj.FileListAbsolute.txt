@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

@@ -1,0 +1,6 @@
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+E:\Proekti\Teleric\C# 2015\Вход и изход от конзолата\ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
